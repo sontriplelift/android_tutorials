@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Language Preferences</string>
+    <string name="tvGreeting">Hello</string>
+    <string name="lang_clear">Clear</string>
+    <string name="lang_Vi" translatable="false">Tiếng Việt</string>
+    <string name="lang_En" translatable="false">English</string>
+    <string name="lang_Ja" translatable="false">日本語</string>
+
+</resources>

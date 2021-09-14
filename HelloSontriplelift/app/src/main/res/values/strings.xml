@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello Sontriplelift</string>
+    <string name="edt_search">Search</string>
+    <string name="hello">Hello</string>
+    <string name="username">Sontriplelift</string>
+    <string name="goals">Goals</string>
+    <string name="finance">Finance</string>
+    <string name="health">Health</string>
+    <string name="comfort">Comfort</string>
+    <string name="trending">TRENDING</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+</resources>
